@@ -6,8 +6,8 @@
 		  <Author>Robert Kiyosaki</Author>
 		  <Author>Sharon Lechter</Author>
 		  <Genres>Personal finance, Non-fiction</Genres>
-		  <Original language>English</Original language>
-		  <Originally published>1997</Originally published>
+		  <Originallanguage>English</Originallanguage>
+		  <Originallypublished>1997</Originallypublished>
 		</book>
 	</book>
 
@@ -17,8 +17,8 @@
 		  <Author>Donald Trump</Author>
       <Author>Robert Kiyosaki</Author>
 		  <Genres>Self-help book</Genres>
-		  <Original language>English</Original language>
-		  <Originally published>2006</Originally published>
+		  <Originallanguage>English</Originallanguage>
+		  <Originallypublished>2006</Originallypublished>
 		</book>
 	</book>
 
@@ -27,8 +27,8 @@
 		  <Title>Harry Potter and the Half-Blood Prince</Title>
 		  <Author>J.K.Rowling</Author>
 		  <Genres>Novel, Young adult fiction, Fantasy Fiction, Adventure fiction</Genres>
-		  <Original language>English</Original language>
-		  <Originally published>2005</Originally published>
-		</book>	
+		  <Originallanguage>English</Originallanguage>
+		  <Originallypublished>2005</Originallypublished>
+		</book>
 	</book>
 </table-of-books>
