@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "record": {
+        "@index": "1",
+        "Name": "Rich Dad Poor Dad",
+        "Authors:": "Robert Kiyosaki, Sharon Lechter",
+        "Genres:": "Personal finance, Non-fiction",
+        "Original_language:": "English",
+        "Originally_published:": "1997"
+      }
+    },
+    {
+      "record": {
+        "@index": "2",
+        "Name": "Why We Want You to Be Rich:",
+        "Authors:": "Donald Trump, Robert Kiyosaki",
+        "Genres:": "Self-help book",
+        "Original_language:": "English",
+        "Originally_published:": "10.1.2006"
+      }
+    },
+    {
+      "record": {
+        "@index": "3",
+        "Name": "Harry Potter and the Half-Blood Prince",
+        "Authors:": "J. K. Rowling",
+        "Genres:": "Novel, Young adult fiction, Fantasy Fiction, Adventure fiction",
+        "Original_language:": "English",
+        "Originally_published:": "2005-07-16 00:00:00"
+      }
+    }
+  ]
+}
