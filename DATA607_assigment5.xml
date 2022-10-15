@@ -5,7 +5,7 @@
     <Genres_ index="3">Genres:</Genres_>
     <Name index="1">Name</Name>
     <Original_language_ index="4">Original language:</Original_language_>
-    <Originally_published__ index="5">Originally published: </Originally_published__>
+    <Originally_published_ index="5">Originally published:</Originally_published_>
   </columns>
   <records>
     <record index="1">
@@ -13,21 +13,21 @@
       <Genres_>Personal finance, Non-fiction</Genres_>
       <Name>Rich Dad Poor Dad</Name>
       <Original_language_> English</Original_language_>
-      <Originally_published__>1997</Originally_published__>
+      <Originally_published_>1997</Originally_published_>
     </record>
     <record index="2">
       <Authors_> Donald Trump, Robert Kiyosaki</Authors_>
       <Genres_>Self-help book</Genres_>
-      <Name>Why We Want You to Be Rich:</Name>
+      <Name> Why We Want You to Be Rich:</Name>
       <Original_language_> English</Original_language_>
-      <Originally_published__>10.1.2006</Originally_published__>
+      <Originally_published_>10.1.2006</Originally_published_>
     </record>
     <record index="3">
       <Authors_>J. K. Rowling</Authors_>
       <Genres_> Novel, Young adult fiction, Fantasy Fiction, Adventure fiction</Genres_>
       <Name>Harry Potter and the Half-Blood Prince</Name>
       <Original_language_> English</Original_language_>
-      <Originally_published__>16-Jul-05</Originally_published__>
+      <Originally_published_>16-Jul-05</Originally_published_>
     </record>
   </records>
 </data>
