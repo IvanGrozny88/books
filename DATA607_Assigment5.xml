@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-of-books>
+	<book>
+		<Title>Rich Dad Poor Dad</Title>
+		<Author>Robert Kiyosaki</Author>
+		<Author>Sharon Lechter</Author>
+		<Genres>Personal finance, Non-fiction</Genres>
+		<Original language> English</Original language>
+		<Originally published>1997</Originally published>
+	</book>
+
+	<book>
+		<Title>Why We Want You to Be Rich</Title>
+		<Author>Donald Trump</Author>
+    <Author>Robert Kiyosaki</Author>
+		<Genres>Self-help book</Genres>
+		<Original language>English</Original language>
+		<Originally published>2006</Originally published>
+	</book>
+
+	<book>
+		<Title>Harry Potter and the Half-Blood Prince</Title>
+		<Author>J. K. Rowling</Author>
+		<Genres>Novel, Young adult fiction, Fantasy Fiction, Adventure fiction</Genres>
+		<Original language>English</Original language>
+		<Originally published>2005</Originally published>
+	</book>
+</table-of-books>
